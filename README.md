@@ -2,7 +2,7 @@
 
 I am interested in Full Stack development and Artificial Intelligence 🤖
 
-Currently, I study Ruby on Rails and Python 🚀
+Currently, I study Node.js 🚀
 
 You can contact me via phlorenzetti@gmail.com or [www.linkedin.com/in/pedro-lorenzetti ](https://www.linkedin.com/in/pedro-lorenzetti) 📬
 
